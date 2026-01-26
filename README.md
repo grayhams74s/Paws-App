@@ -4,10 +4,12 @@ Paws is a simple and elegant SwiftUI application that allows you to add, view, a
 It is built as a beginner-friendly project to demonstrate modern iOS development using **SwiftUI**, **SwiftData**, **NavigationStack**, and **TipKit**.
 
 ![Image](https://github.com/user-attachments/assets/72c77feb-b28e-408d-be4f-7b8cf10c6825)
+
+Whether it’s your dog, cat, or any furry companion — **Paws** keeps them all in one place ❤️
+
 ![Image](https://github.com/user-attachments/assets/930deefc-130c-4474-8607-27274662ded8)
 
 
-Whether it’s your dog, cat, or any furry companion — **Paws** keeps them all in one place ❤️
 
 ---
 
